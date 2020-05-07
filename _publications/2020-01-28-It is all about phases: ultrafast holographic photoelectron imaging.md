@@ -1,5 +1,5 @@
 ---
-title: "It is all about phases: ultrafast holographic photoelectron imaging"
+title: "It is all about phases, ultrafast holographic photoelectron imaging"
 collection: publications
 permalink: /publication/2020-01-28-It is all about phases: ultrafast holographic photoelectron imaging
 date: 2020-01-28
