@@ -1,4 +1,5 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
+<<<<<<< HEAD
 2015-08-01	"A Systematic Study of Interference Effects in Non-Sequential
 Double Ionisation"	J. Phys.: Conf. Ser.		A. S. Maxwell & C. Figueira de Morisson Faria. A Systematic Study of Interference Effects in Non-Sequential Double Ionisation. J. Phys.: Conf. Ser., 635, 92136 (2015).	"A Systematic Study of Interference Effects in Non-Sequential
 Double Ionisation"	https://iopscience.iop.org/article/10.1088/1742-6596/635/9/092136/meta
@@ -12,3 +13,8 @@ Double Ionisation"	https://iopscience.iop.org/article/10.1088/1742-6596/635/9/09
 2019-10-14	Symphony on Strong Field Approximation	Rep. Prog. Phys. 		K. Amini, [et al. including A. S. Maxwell]. Symphony on Strong Field Approximation Rep. Prog. Phys. 82 116001 (2019)	Symphony on Strong Field Approximation	https://iopscience.iop.org/article/10.1088/1361-6633/ab2bb1/meta
 2020-01-28	It is all about phases: ultrafast holographic photoelectron imaging	Rep. Prog. Phys. 		C. F. de Morisson Faria and A. S. Maxwell, It is all about phases: ultrafast holographic photoelectron imaging. Reports on Progress in Physics 83, 034401 (2020)	It is all about phases: ultrafast holographic photoelectron imaging	https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91/meta
 2019-08-11	It is all about phases: ultrafast holographic photoelectron imaging	arXiv		H. P. Kang, A. S. Maxwell, et al., Holographic detection of parity in atomic and molecular orbitals arXiv:1908.03860 (2019)	It is all about phases: ultrafast holographic photoelectron imaging	https://arxiv.org/abs/1908.03860
+=======
+2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). Paper Title Number 1. <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf
+2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). Paper Title Number 2. <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
+2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). Paper Title Number 3. <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+>>>>>>> 6f196759444d7ac811295c974dd6ea2a219a6d23
