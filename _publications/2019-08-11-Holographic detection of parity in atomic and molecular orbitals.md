@@ -7,6 +7,4 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/1908.03860'
 citation: 'H. P. Kang, A. S. Maxwell, et al. arXiv:1908.03860 (2019)'
 ---
-[Download paper here](https://arxiv.org/abs/1908.03860)
-
-Recommended citation: H. P. Kang, A. S. Maxwell, et al. arXiv:1908.03860 (2019)
+H. P. Kang, A. S. Maxwell, et al. arXiv:1908.03860 (2019)

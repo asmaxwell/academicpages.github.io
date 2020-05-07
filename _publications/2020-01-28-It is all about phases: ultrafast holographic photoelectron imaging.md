@@ -7,6 +7,4 @@ venue: 'Rep. Prog. Phys. '
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91/meta'
 citation: 'C. F. de Morisson Faria and A. S. Maxwell. Reports on Progress in Physics 83, 034401 (2020)'
 ---
-[Download paper here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91/meta)
-
-Recommended citation: C. F. de Morisson Faria and A. S. Maxwell. Reports on Progress in Physics 83, 034401 (2020)
+C. F. de Morisson Faria and A. S. Maxwell. Reports on Progress in Physics 83, 034401 (2020)

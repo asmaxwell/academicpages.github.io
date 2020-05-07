@@ -7,6 +7,4 @@ venue: 'Phys. Rev. A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.023420'
 citation: 'A. S. Maxwell, A. Al-Jawahiry, T. Das &amp; C. Figueria de Morisson Faria. Phys. Rev. A 96, 023420 (2017)'
 ---
-[Download paper here](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.023420)
-
-Recommended citation: A. S. Maxwell, A. Al-Jawahiry, T. Das & C. Figueria de Morisson Faria. Phys. Rev. A 96, 023420 (2017)
+A. S. Maxwell, A. Al-Jawahiry, T. Das & C. Figueria de Morisson Faria. Phys. Rev. A 96, 023420 (2017)

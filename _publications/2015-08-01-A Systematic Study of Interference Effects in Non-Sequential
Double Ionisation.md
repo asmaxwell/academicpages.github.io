@@ -9,6 +9,4 @@ venue: 'J. Phys.: Conf. Ser.'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/635/9/092136/meta'
 citation: 'A. S. Maxwell &amp; C. Figueira de Morisson Faria. J. Phys.: Conf. Ser., 635, 92136 (2015).'
 ---
-[Download paper here](https://iopscience.iop.org/article/10.1088/1742-6596/635/9/092136/meta)
-
-Recommended citation: A. S. Maxwell & C. Figueira de Morisson Faria. J. Phys.: Conf. Ser., 635, 92136 (2015).
+A. S. Maxwell & C. Figueira de Morisson Faria. J. Phys.: Conf. Ser., 635, 92136 (2015).
