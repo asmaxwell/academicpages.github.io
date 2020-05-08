@@ -7,4 +7,3 @@ venue: 'Rep. Prog. Phys. '
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6633/ab2bb1/meta'
 citation: 'K. Amini, [et al. including A. S. Maxwell]. Rep. Prog. Phys. 82 116001 (2019)'
 ---
-K. Amini, [et al. including A. S. Maxwell]. Rep. Prog. Phys. 82 116001 (2019)

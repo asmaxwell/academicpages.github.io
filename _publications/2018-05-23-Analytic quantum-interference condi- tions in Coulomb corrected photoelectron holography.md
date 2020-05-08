@@ -7,4 +7,3 @@ venue: 'J. Phys. B: At. Mol. Opt. Phys.'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1361-6455/aac164/pdf'
 citation: 'A. S. Maxwell &amp; C. Figueria de Morisson Faria.  J. Phys. B: At. Mol. Opt. Phys. 51 124001 (2018)'
 ---
-A. S. Maxwell & C. Figueria de Morisson Faria.  J. Phys. B: At. Mol. Opt. Phys. 51 124001 (2018)
