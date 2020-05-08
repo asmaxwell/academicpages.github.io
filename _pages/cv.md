@@ -36,7 +36,7 @@ Education and Qualifications
 | 27/09/2010 - | University of Bristol| MSci (Physics and Maths)         |
 | 26/06/2014   | (UoB)                | with First Class Honours         |
 |              |                      | 1st, 2nd, 3rd & 4th year averages|
-|              |                      | 77%,74%, 76% & 77%               |
+|              |                      | 77%, 74%, 76% & 77%              |
 
 
 Work and Experience
