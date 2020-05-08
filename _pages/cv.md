@@ -25,7 +25,7 @@ College London (UCL) quantum science and technology institute (UCLQ),
 investigating previously neglected quantum effects such as entanglement
 in strong field systems.
 
-[Education and Qualifications]{style="color: orange2"} {#education-and-qualifications .unnumbered .unnumbered}
+Education and Qualifications
 ======================================================
 
 +:----------------------+:----------------------+:----------------------+
@@ -45,11 +45,9 @@ in strong field systems.
 |                       |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 
-\vspace{-3mm}
-[Work and Experience]{style="color: orange2"} {#work-and-experience .unnumbered .unnumbered}
+Work and Experience
 =============================================
 
-\vspace{-3mm}
 +:----------------+:----------------+:----------------+:----------------+
 | \rowcolor{blue! | **Establishment | **Line          | **Description** |
 | 30}             | **              | Manager**       |                 |
@@ -141,8 +139,8 @@ in strong field systems.
 |                 |                 |                 | programme.      |
 +-----------------+-----------------+-----------------+-----------------+
 
-\vspace{0.5cm}
-#### [Publication Summary:]{style="color: orange2"} {#publication-summary .unnumbered .unnumbered}
+
+#### Publication Summary:
 
 [Google Scholar
 Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ):
@@ -155,7 +153,7 @@ first author publications** in leading international journals, including
 Linear Algebra Appl. and 1 conference proceedings. 2 recent review
 papers in Rep. Prog. Phys.
 
-#### [Talks, Conferences and Workshops Summary:]{style="color: orange2"} {#talks-conferences-and-workshops-summary .unnumbered .unnumbered}
+#### Talks, Conferences and Workshops Summary:
 
 I have organised **1 talk** on quantum technologies by Fujitsu and I am
 on the organisation committee for the **Quantum Battles conference**. I
@@ -163,27 +161,26 @@ have given **15 talks** at conferences and institutions, **8
 international talks** and **5 invited talks**. I have been to 22
 conferences and workshops in total and have presented 8 posters.
 
-#### [Supervision Experience Summary:]{style="color: orange2"} {#supervision-experience-summary .unnumbered .unnumbered}
+#### Supervision Experience Summary:
 
 I have **lectured at a postgraduate level** and demonstrated
 undergraduate courses. I have been the unofficial primary supervisor of
 a MSc student and played a significant role in the **supervision of 5
 MSci** (masters) students and **1 PhD** student.
 
-#### [Reviewing:]{style="color: orange2"}
+#### Reviewing:
 
 Communications Physics (Nature), Physical Review A (APS), Journal of
 Physics A: Mathematical and Theoretical (IOP).
 
-#### [Computer Skills:]{style="color: orange2"} {#computer-skills .unnumbered .unnumbered}
+#### Computer Skills:
 
 Skilled in: C, C++, Mathematica, python and Unix/ Linux. Competent in:
 Matlab.
 
-[Funding]{style="color: orange2"} {#funding .unnumbered .unnumbered}
+Funding
 =================================
 
-\rowcolors{2}{blue!10}{white}
 +:----------------------------------+:----------------------------------+
 | \rowcolor{blue!30}                | **Description**                   |
 | **Date**                          |                                   |
@@ -197,7 +194,7 @@ Matlab.
 |                                   | (UCLQ).                           |
 +-----------------------------------+-----------------------------------+
 
-[Teaching List]{style="color: orange2"} {#teaching-list .unnumbered .unnumbered}
+Teaching List
 =======================================
 
 +:----------------------+:----------------------+:----------------------+
@@ -239,7 +236,7 @@ Matlab.
 |                       |                       | Bristol).             |
 +-----------------------+-----------------------+-----------------------+
 
-[Prizes]{style="color: orange2"} {#prizes .unnumbered .unnumbered}
+Prizes
 ================================
 
 \rowcolors{2}{blue!10}{white}
@@ -273,7 +270,7 @@ Matlab.
 |                                   | best poster.                      |
 +-----------------------------------+-----------------------------------+
 
-[Attended Postgraduate Courses]{style="color: orange2"} {#attended-postgraduate-courses .unnumbered .unnumbered}
+Attended Postgraduate Courses
 =======================================================
 
 \rowcolors{2}{blue!10}{white}
@@ -292,10 +289,9 @@ Matlab.
 |                                   | programming.                      |
 +-----------------------------------+-----------------------------------+
 
-[Outreach and Organisational Roles]{style="color: orange2"} {#outreach-and-organisational-roles .unnumbered .unnumbered}
+Outreach and Organisational Roles
 ===========================================================
 
-\rowcolors{2}{blue!10}{white}
 +:----------------------+:----------------------+:----------------------+
 | \rowcolor{blue!30}    | **Role**              | **Course Title        |
 | **Date**              |                       | /Description**        |
