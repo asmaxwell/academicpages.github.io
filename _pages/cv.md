@@ -96,140 +96,32 @@ Prizes
 | **Date**   | **Description**                                              |
 | ---------- | ------------------------------------------------------------ |
 | 31/08/2017 | Extreme Light Infrastructure Summer School (ELISS), second place poster prize. |
-| 31/08/2017 | Extreme Light Infrastructure |
-| ---------- | ---------------------------- |
-|            |                              |
-|      | Summer School (ELISS), second |
-| ---- | ----------------------------- |
-|      |                               |
-|      | place poster prize. |
-| ---- | ------------------- |
-|      |                     |
-| ----------------------------------- | ----------------------------------- |
-| ----------------------------------- | ----------------------------------- |
-|                                     |                                     |
-| 28/06/2017 | [UCL |
-| ---------- | ---- |
-|            |      |
-|      | Hackathon](https://sites.google.c |
-| ---- | --------------------------------- |
-|      |                                   |
-|      | om/view/uclphysicshackathon), |
-| ---- | ----------------------------- |
-|      |                               |
-|      | my team was awarded first prize. |
-| ---- | -------------------------------- |
-|      |                                  |
-| ----------------------------------- | ----------------------------------- |
-| ----------------------------------- | ----------------------------------- |
-|                                     |                                     |
-| 10/02/2016 | [UCL |
-| ---------- | ---- |
-|            |      |
-|      | Hackathon](https://sites.google.c |
-| ---- | --------------------------------- |
-|      |                                   |
-|      | om/view/uclphysicshackathon), |
-| ---- | ----------------------------- |
-|      |                               |
-|      | my team was awarded runner up |
-| ---- | ----------------------------- |
-|      |                               |
-|      | prize. |
-| ---- | ------ |
-|      |        |
-| ----------------------------------- | ----------------------------------- |
-| ----------------------------------- | ----------------------------------- |
-|                                     |                                     |
-| 31/05/2016 | Atomic and Molecular Interactions |
-| ---------- | --------------------------------- |
-|            |                                   |
-|      | Group (AMIG), runner up prize for |
-| ---- | --------------------------------- |
-|      |                                   |
-|      | best talk. |
-| ---- | ---------- |
-|      |            |
-| ----------------------------------- | ----------------------------------- |
-| ----------------------------------- | ----------------------------------- |
-|                                     |                                     |
-| 27/07/2015 | International Conference on |
-| ---------- | --------------------------- |
-|            |                             |
-|      | Phontonic, Electronic and Atomic |
-| ---- | -------------------------------- |
-|      |                                  |
-|      | Collisions (ICPEAC), Europhysical |
-| ---- | --------------------------------- |
-|      |                                   |
-|      | Journal (EPJ), first prize for |
-| ---- | ------------------------------ |
-|      |                                |
-|      | best poster. |
-| ---- | ------------ |
-|      |              |
-| ----------------------------------- | ----------------------------------- |
-| ----------------------------------- | ----------------------------------- |
-|                                     |                                     |
+| 28/06/2017 | [UCL Hackathon](https://sites.google.com/view/uclphysicshackathon), my team was awarded first prize. |
+| 10/02/2016 | [UCL Hackathon](https://sites.google.com/view/uclphysicshackathon), my team was awarded runner up prize. |
+| 31/05/2016 | Atomic and Molecular Interactions Group (AMIG), runner up prize for best talk. |
+| 27/07/2015 | International Conference on Phontonic, Electronic and Atomic Collisions (ICPEAC), Europhysical Journal (EPJ), first prize for best poster. |
 
 
 
 Attended Postgraduate Courses
 =======================================================
 
-\rowcolors{2}{blue!10}{white}
-+:----------------------------------+:----------------------------------+
-| \rowcolor{blue!30}                | **Description**                   |
-| **Date**                          |                                   |
-+-----------------------------------+-----------------------------------+
-| 10/01/2017 - 07/03/2017           | Electronic Structure Methods for  |
-|                                   | Materials Modelling PHASG473:     |
-|                                   | covering Hartree-Fock methods and |
-|                                   | an in-depth review of density     |
-|                                   | functional theory for molecules   |
-|                                   | and solids.                       |
-+-----------------------------------+-----------------------------------+
-| 17/12/2014 - 19/12/2014           | Graduate courses in C++           |
-|                                   | programming.                      |
-+-----------------------------------+-----------------------------------+
+
+|        **Date**         |                       **Description**                        |
+| :---------------------: | :----------------------------------------------------------: |
+| 10/01/2017 - 07/03/2017 | Electronic Structure Methods for Materials Modelling PHASG473: covering Hartree-Fock methods and an in-depth review of density functional theory for molecules and solids. |
+| 17/12/2014 - 19/12/2014 |             Graduate courses in C++ programming.             |
+
 
 Outreach and Organisational Roles
 ===========================================================
 
-+:----------------------+:----------------------+:----------------------+
-| \rowcolor{blue!30}    | **Role**              | **Course Title        |
-| **Date**              |                       | /Description**        |
-+-----------------------+-----------------------+-----------------------+
-| 01/05/2019 - present  | Organiser             | Helped with events    |
-|                       |                       | for the UCL Research  |
-|                       |                       | Associates Network    |
-+-----------------------+-----------------------+-----------------------+
-| 01/11/2017 -          | Organiser             | Ran the quantum       |
-| 01/05/2018            |                       | information and       |
-|                       |                       | foundations seminars  |
-|                       |                       | at University College |
-|                       |                       | London.               |
-+-----------------------+-----------------------+-----------------------+
-| 01/10/2016 -          | Organiser             | [UCL                  |
-| 20/06/2016            |                       | Hackathon](https://si |
-|                       |                       | tes.google.com/view/u |
-|                       |                       | clphysicshackathon),  |
-|                       |                       | on the organising     |
-|                       |                       | committee for this    |
-|                       |                       | event, where teams    |
-|                       |                       | had to solve real     |
-|                       |                       | life problems by      |
-|                       |                       | building devices and  |
-|                       |                       | using programming     |
-|                       |                       | skills.               |
-+-----------------------+-----------------------+-----------------------+
-| 11/01/2016 -          | Organiser             | Informal lecture      |
-| 19/12/2016            |                       | course on quantum     |
-|                       |                       | field theory.         |
-+-----------------------+-----------------------+-----------------------+
-| 22/09/2015 -          | Organiser             | Member of the physics |
-| 01/07/2016            |                       | postgraduate          |
-|                       |                       | committee, organising |
-|                       |                       | talks and social      |
-|                       |                       | events.               |
-+-----------------------+-----------------------+-----------------------+
+
+
+| Date                    | **Role**  | Course Title/ Description                                    |
+| ----------------------- | --------- | ------------------------------------------------------------ |
+| 01/05/2019 - present    | Organiser | Helped with events for the UCL Research Associates Network   |
+| 01/11/2017 - 01/05/2018 | Organiser | Ran the quantum information and foundations seminars at University College London. |
+| 01/10/2016 - 20/06/2016 | Organiser | [UCL Hackathon](https://sites.google.com/view/uclphysicshackathon) on the organising committee for this event, where teams had to solve real life problems by building devices and using programming skills. |
+| 11/01/2016 - 19/12/2016 | Organiser | Informal lecture course on quantum field theory.             |
+| 22/09/2015 - 01/07/2016 | Organiser | Member of the physics postgraduate committee, organising talks and social events. |
