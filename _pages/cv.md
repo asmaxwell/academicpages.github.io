@@ -16,126 +16,125 @@ Summary and Impact of Research
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
-[ICFO]{acronym-label="ICFO" acronym-form="singular+full"} in Barcelona,
-Spain for two weeks and the [WIPM]{acronym-label="WIPM"
-acronym-form="singular+full"} in China for a month to collaborate. I am
-currently doing a two-year [EPSRC]{acronym-label="EPSRC"
-acronym-form="singular+full"} funded fellowship at the University
+Instituto de Ciencias Fotónicas (ICFO) in Barcelona,
+Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate. I am
+currently doing a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
 College London (UCL) quantum science and technology institute (UCLQ),
 investigating previously neglected quantum effects such as entanglement
 in strong field systems.
 
 Education and Qualifications
 ======================================================
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-+:----------------------+:----------------------+:----------------------+
-|  **Duration**         | **Establishment**     | **Qualifications**    |
 +-----------------------+-----------------------+-----------------------+
-| 22/09/2014 -          | University College    | PhD in Physics        |
-| 28/01/2019            | London (UCL)          |                       |
+|  **Duration | **Establishment**    | **Qualifications**  |
 +-----------------------+-----------------------+-----------------------+
-| \rowcolor{blue!10}    | University of Bristol | MSci (Physics and     |
-| 27/09/2010 -          | (UoB)                 | Maths) with First     |
-| 26/06/2014            |                       | Class Honours 1^st^,  |
-|                       |                       | 2^nd^, 3^rd^ & 4^th^  |
-|                       |                       | year averages 77%,    |
-|                       |                       | 74%, 76% & 77%        |
+| 22/09/2014 -| University College   | PhD in Physics      |
+| 28/01/2019  | London (UCL)         |                     |
 +-----------------------+-----------------------+-----------------------+
-|                       |                       |                       |
+| 27/09/2010 -| University of Bristol| MSci (Physics and   |
+| 26/06/2014  | (UoB)                | Maths) with First   |
+|             |                      | Class Honours 1^st^,|
+|             |                      | 2^nd^, 3^rd^ & 4^th^|
+|             |                      | year averages 77%,  |
+|             |                      | 74%, 76% & 77%      |
 +-----------------------+-----------------------+-----------------------+
 
 Work and Experience
 =============================================
 
 +:----------------+:----------------+:----------------+:----------------+
-| \rowcolor{blue! | **Establishment | **Line          | **Description** |
-| 30}             | **              | Manager**       |                 |
-| **Duration**    |                 |                 |                 |
+| **Duration** - | **Establishment** | **Line Manager* | **Description* |
 +-----------------+-----------------+-----------------+-----------------+
-| 14/01/2019 -    | UCL, Quantum    | Prof. Andrew    | **Role:**       |
-| 13/01/2021      | Science and     | Fisher          | Postdoctoral    |
-|                 | Technology      |                 | Fellow EPSRC    |
-|                 | Institute       |                 | Fellowship in   |
-|                 | (UCLQ)          |                 | Quantum         |
-|                 |                 |                 | Technologies at |
-|                 |                 |                 | UCLQ: Quantum   |
-|                 |                 |                 | Sensing and     |
-|                 |                 |                 | Entangled       |
-|                 |                 |                 | Interferometry  |
-|                 |                 |                 | of Orbitals     |
-|                 |                 |                 | \[quantum       |
-|                 |                 |                 | information of  |
-|                 |                 |                 | strong-field    |
-|                 |                 |                 | systems\]       |
+| 14/01/2019 -   | UCL, Quantum      | Prof. Andrew    | **Role:**      |
+| 13/01/2021     | Science and       | Fisher          | Postdoctoral   |
+|                | Technology        |                 | Fellow EPSRC   |
+|                | Institute         |                 | Fellowship in  |
+|                | (UCLQ)            |                 | Quantum        |
+|                |                   |                 | Technologies at|
+|                |                   |                 | UCLQ: Quantum  |
+|                |                   |                 | Sensing and    |
+|                |                   |                 | Entangled      |
+|                |                   |                 | Interferometry |
+|                |                   |                 | of Orbitals    |
+|                |                   |                 | \[quantum      |
+|                |                   |                 | information of |
+|                |                   |                 | strong-field   |
+|                |                   |                 | systems\]      |
 +-----------------+-----------------+-----------------+-----------------+
-| \rowcolor{blue! | [WIPM]{acronym- | Prof. Xiaojun   | **Role:**       |
-| 10}             | label="WIPM"    | Liu             | Visiting        |
-| 13/11/2018 -    | acronym-form="s |                 | Researcher      |
-| 12/12/2018      | ingular+short"} |                 | Collaboration   |
-|                 | ,               |                 | on electron     |
-|                 | Wuhan           |                 | holography in   |
-|                 |                 |                 | molecules.      |
+| \rowcolor{blue!| [WIPM]{acronym-   | Prof. Xiaojun   | **Role:**      |
+| 10}            | label="WIPM"      | Liu             | Visiting       |
+| 13/11/2018 -   | acronym-form="s   |                 | Researcher     |
+| 12/12/2018     | ingular+short"}   |                 | Collaboration  |
+|                | ,                 |                 | on electron    |
+|                | Wuhan             |                 | holography in  |
+|                |                   |                 | molecules.     |
 +-----------------+-----------------+-----------------+-----------------+
-| 29/10/2018 -    | [ICFO]{acronym- | Prof. Maciej    | **Role:**       |
-| 08/11/2018      | label="ICFO"    | Lewenstein      | Visiting        |
-|                 | acronym-form="s |                 | Researcher      |
-|                 | ingular+short"} |                 | Collaboration   |
-|                 | ,               |                 | on NSDI and     |
-|                 | Barcelona       |                 | writing a       |
-|                 |                 |                 | review paper.   |
+| 29/10/2018 -   | [ICFO]{acronym-   | Prof. Maciej    | **Role:**      |
+| 08/11/2018     | label="ICFO"      | Lewenstein      | Visiting       |
+|                | acronym-form="s   |                 | Researcher     |
+|                | ingular+short"}   |                 | Collaboration  |
+|                | ,                 |                 | on NSDI and    |
+|                | Barcelona         |                 | writing a      |
+|                |                   |                 | review paper.  |
 +-----------------+-----------------+-----------------+-----------------+
-| \rowcolor{blue! | UCL             | Prof. Carla     | **Role:** PhD   |
-| 10}             |                 | Figueira de     | Student Thesis: |
-| 22/09/2014 -    |                 | Morisson Faria  | *Strong-Field   |
-| 28/01/2019      |                 |                 | Interference of |
-|                 |                 |                 | Quantum         |
-|                 |                 |                 | Trajectories    |
-|                 |                 |                 | with Coulomb    |
-|                 |                 |                 | Distortion and  |
-|                 |                 |                 | Electron        |
-|                 |                 |                 | Correlation*    |
+| \rowcolor{blue!| UCL               | Prof. Carla     | **Role:** PhD  |
+| 10}            |                   | Figueira de     | Student Thesis:|
+| 22/09/2014 -   |                   | Morisson Faria  | *Strong-Field  |
+| 28/01/2019     |                   |                 | Interference of|
+|                |                   |                 | Quantum        |
+|                |                   |                 | Trajectories   |
+|                |                   |                 | with Coulomb   |
+|                |                   |                 | Distortion and |
+|                |                   |                 | Electron       |
+|                |                   |                 | Correlation*   |
 +-----------------+-----------------+-----------------+-----------------+
-| 23/09/2013 -    | UoB             | Prof. James     | **Role:**       |
-| 22/06/2014      |                 | Annett          | Masters Student |
-|                 |                 |                 | Masters         |
-|                 |                 |                 | project: Berry  |
-|                 |                 |                 | phase of        |
-|                 |                 |                 | phonons in      |
-|                 |                 |                 | graphene. Mark: |
-|                 |                 |                 | 72%.            |
+| 23/09/2013 -   | UoB               | Prof. James     | **Role:**      |
+| 22/06/2014     |                   | Annett          | Masters Student|
+|                |                   |                 | Masters        |
+|                |                   |                 | project: Berry |
+|                |                   |                 | phase of       |
+|                |                   |                 | phonons in     |
+|                |                   |                 | graphene. Mark:|
+|                |                   |                 | 72%.           |
 +-----------------+-----------------+-----------------+-----------------+
-| \rowcolor{blue! | UoB             | Dr. Steve       | **Role:**       |
-| 10}             |                 | Brierley        | Summer Student  |
-| 29/07/2013 -    |                 |                 | Quantum         |
-| 20/09/2013      |                 |                 | information     |
-|                 |                 |                 | project,        |
-|                 |                 |                 | investigating   |
-|                 |                 |                 | MUBs in six     |
-|                 |                 |                 | dimensions.     |
-|                 |                 |                 | Funded by the   |
-|                 |                 |                 | Heilbronn       |
-|                 |                 |                 | Institute, a    |
-|                 |                 |                 | partnership     |
-|                 |                 |                 | between UoB and |
-|                 |                 |                 | the UK          |
-|                 |                 |                 | Government      |
-|                 |                 |                 | Communication   |
-|                 |                 |                 | Head Quarters   |
-|                 |                 |                 | (GCHQ).         |
+| \rowcolor{blue!| UoB               | Dr. Steve       | **Role:**      |
+| 10}            |                   | Brierley        | Summer Student |
+| 29/07/2013 -   |                   |                 | Quantum        |
+| 20/09/2013     |                   |                 | information    |
+|                |                   |                 | project,       |
+|                |                   |                 | investigating  |
+|                |                   |                 | MUBs in six    |
+|                |                   |                 | dimensions.    |
+|                |                   |                 | Funded by the  |
+|                |                   |                 | Heilbronn      |
+|                |                   |                 | Institute, a   |
+|                |                   |                 | partnership    |
+|                |                   |                 | between UoB and|
+|                |                   |                 | the UK         |
+|                |                   |                 | Government     |
+|                |                   |                 | Communication  |
+|                |                   |                 | Head Quarters  |
+|                |                   |                 | (GCHQ).        |
 +-----------------+-----------------+-----------------+-----------------+
-| 11/06/2012-     | UoB             | Prof. Jeremy    | **Role:**       |
-| 31/08/2012      |                 | O'Brien,Dr. J.  | Summer Student  |
-|                 |                 | P. Hadden       | Quantum         |
-|                 |                 |                 | information     |
-|                 |                 |                 | project in      |
-|                 |                 |                 | photonics on    |
-|                 |                 |                 | spin properties |
-|                 |                 |                 | of diamond      |
-|                 |                 |                 | colour centres, |
-|                 |                 |                 | Nuffield        |
-|                 |                 |                 | undergraduate   |
-|                 |                 |                 | research        |
-|                 |                 |                 | programme.      |
+| 11/06/2012-    | UoB               | Prof. Jeremy    | **Role:**      |
+| 31/08/2012     |                   | O'Brien,Dr. J.  | Summer Student |
+|                |                   | P. Hadden       | Quantum        |
+|                |                   |                 | information    |
+|                |                   |                 | project in     |
+|                |                   |                 | photonics on   |
+|                |                   |                 | spin properties|
+|                |                   |                 | of diamond     |
+|                |                   |                 | colour centres,|
+|                |                   |                 | Nuffield       |
+|                |                   |                 | undergraduate  |
+|                |                   |                 | research       |
+|                |                   |                 | programme.     |
 +-----------------+-----------------+-----------------+-----------------+
 
 
