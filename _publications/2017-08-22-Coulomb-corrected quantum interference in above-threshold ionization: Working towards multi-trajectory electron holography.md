@@ -1,7 +1,7 @@
 ---
-title: "Coulomb-corrected quantum interference in above-threshold ionization&colon; Working towards multi-trajectory electron holography"
+title: "Coulomb-corrected quantum interference in above-threshold ionization: Working towards multi-trajectory electron holography"
 collection: publications
-permalink: /publication/2017-08-22-Coulomb-corrected quantum interference in above-threshold ionization&colon; Working towards multi-trajectory electron holography
+permalink: " /publication/2017-08-22-Coulomb-corrected quantum interference in above-threshold ionization: Working towards multi-trajectory electron holography"
 date: 2017-08-22
 venue: 'Phys. Rev. A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.023420'

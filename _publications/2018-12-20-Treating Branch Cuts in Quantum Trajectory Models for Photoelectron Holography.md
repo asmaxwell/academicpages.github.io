@@ -1,7 +1,7 @@
 ---
 title: "Treating Branch Cuts in Quantum Trajectory Models for Photoelectron Holography"
 collection: publications
-permalink: /publication/2018-12-20-Treating Branch Cuts in Quantum Trajectory Models for Photoelectron Holography
+permalink: " /publication/2018-12-20-Treating Branch Cuts in Quantum Trajectory Models for Photoelectron Holography"
 date: 2018-12-20
 venue: 'Phys. Rev. A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.98.063423'
