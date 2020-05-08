@@ -29,8 +29,7 @@ Education and Qualifications
 ======================================================
 
 +:----------------------+:----------------------+:----------------------+
-| \rowcolor{blue!30}    | **Establishment**     | **Qualifications**    |
-| **Duration**          |                       |                       |
+|  **Duration**         | **Establishment**     | **Qualifications**    |
 +-----------------------+-----------------------+-----------------------+
 | 22/09/2014 -          | University College    | PhD in Physics        |
 | 28/01/2019            | London (UCL)          |                       |
