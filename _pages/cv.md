@@ -93,9 +93,9 @@ Teaching List
 Prizes
 ================================
 
-| **Date**   | **Description**              |
-| ---------- | ---------------------------- |
-| 31/08/2017 | Extreme Light Infrastructure |
+| **Date**   | **Description**                                              |
+| ---------- | ------------------------------------------------------------ |
+| 31/08/2017 | Extreme Light Infrastructure Summer School (ELISS), second place poster prize. |
 | 31/08/2017 | Extreme Light Infrastructure |
 | ---------- | ---------------------------- |
 |            |                              |
