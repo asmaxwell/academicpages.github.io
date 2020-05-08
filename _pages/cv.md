@@ -28,17 +28,16 @@ Education and Qualifications
 
 
 
-|  **Duration**| **Establishment**    | **Qualifications**  |
-|--------------|----------------------|---------------------|
-| 22/09/2014 - | University College   | PhD in Physics      |
-| 28/01/2019   | London (UCL)         |                     |
-|------------- |----------------------|---------------------|
-| 27/09/2010 - | University of Bristol| MSci (Physics and   |
-| 26/06/2014   | (UoB)                | Maths) with First   |
-|              |                      | Class Honours 1st,  |
-|              |                      | 2nd, 3rd & 4th      |
-|              |                      | year averages 77%,  |
-|              |                      | 74%, 76% & 77%      |
+|  **Duration**| **Establishment**    | **Qualifications**               |
+|--------------|----------------------|----------------------------------|
+| 22/09/2014 - | University College   | PhD in Physics                   |
+| 28/01/2019   | London (UCL)         |                                  |
+|------------- |----------------------|----------------------------------|
+| 27/09/2010 - | University of Bristol| MSci (Physics and Maths)         |
+| 26/06/2014   | (UoB)                | with First Class Honours         |
+|              |                      | 1st, 2nd, 3rd & 4th year averages|
+|              |                      | 77%,74%, 76% & 77%               |
+
 
 Work and Experience
 =============================================
