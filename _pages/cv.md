@@ -11,7 +11,7 @@ redirect_from:
 
 
 Summary and Impact of Research
-==============================
+-------------------------------
 
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
@@ -24,7 +24,7 @@ investigating previously neglected quantum effects such as entanglement
 in strong field systems.
 
 Education and Qualifications
-======================================================
+-------------------------------
 
 
 
@@ -35,42 +35,97 @@ Education and Qualifications
 
 
 Work and Experience
-=============================================
+-------------------------------
 
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 29%" />
+<col style="width: 21%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>Duration</strong></th>
+<th><strong>Establishment</strong></th>
+<th><strong>Line Manager</strong></th>
+<th><strong>Description</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>14/01/2019 - 13/01/2021</td>
+<td>UCL, Quantum Science and Technology Institute (UCLQ)</td>
+<td>Prof. Andrew Fisher</td>
+<td><strong>Role:</strong> Postdoctoral Fellow EPSRC Fellowship in Quantum Technologies at UCLQ: Quantum Sensing and Entangled Interferometry of Orbitals [quantum information of strong-field systems]</td>
+</tr>
+<tr class="even">
+<td>13/11/2018 - 12/12/2018</td>
+<td>WIPM, Wuhan</td>
+<td>Prof. Xiaojun Liu</td>
+<td><strong>Role:</strong> Visiting Researcher Collaboration on electron holography in molecules.</td>
+</tr>
+<tr class="odd">
+<td>29/10/2018 - 08/11/2018</td>
+<td>ICFO, Barcelona</td>
+<td>Prof. Maciej Lewenstein</td>
+<td><strong>Role:</strong> Visiting Researcher Collaboration on NSDI and writing a review paper.</td>
+</tr>
+<tr class="even">
+<td>22/09/2014 - 28/01/2019</td>
+<td>University College London</td>
+<td>Prof. Carla Figueira de Morisson Faria</td>
+<td><strong>Role:</strong> PhD Student Thesis: <em>Strong-Field Interference of Quantum Trajectories with Coulomb Distortion and Electron Correlation</em></td>
+</tr>
+<tr class="odd">
+<td>23/09/2013 - 22/06/2014</td>
+<td>University of Bristol</td>
+<td>Prof. James Annett</td>
+<td><strong>Role:</strong> Masters Student Masters project: Berry phase of phonons in graphene.</td>
+</tr>
+<tr class="even">
+<td>29/07/2013 - 20/09/2013</td>
+<td>University of Bristol</td>
+<td>Dr. Steve Brierley</td>
+<td><strong>Role:</strong> Summer Student Quantum information project, investigating MUBs in six dimensions. Funded by the Heilbronn Institute, a partnership between UoB and the UK Government Communication Head Quarters (GCHQ).</td>
+</tr>
+<tr class="odd">
+<td>11/06/2012 - 31/08/2012</td>
+<td>University of Bristol</td>
+<td>Prof. Jeremy O’Brien, Dr. J. P. Hadden</td>
+<td><strong>Role:</strong> Summer Student Quantum information project in photonics on spin properties of diamond colour centres, Nuffield undergraduate research programme.</td>
+</tr>
+</tbody>
 
-| **Duration**             | **Establishment**                                    | **Line Manager**                       | **Description**                                              |
-| ------------------------ | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| 14/01/2019  - 13/01/2021 | UCL, Quantum Science and Technology Institute (UCLQ) | Prof. Andrew Fisher                    | **Role:** Postdoctoral Fellow EPSRC Fellowship in Quantum Technologies at UCLQ: Quantum Sensing and Entangled Interferometry of Orbitals [quantum information of strong-field systems] |
-| 13/11/2018 - 12/12/2018  | WIPM, Wuhan                                          | Prof. Xiaojun Liu                      | **Role:** Visiting Researcher Collaboration on electron holography in molecules. |
-| 29/10/2018 - 08/11/2018  | ICFO, Barcelona                                      | Prof. Maciej Lewenstein                | **Role:** Visiting Researcher Collaboration on NSDI and writing a review paper. |
-| 22/09/2014 - 28/01/2019  | University College London                            | Prof. Carla Figueira de Morisson Faria | **Role:** PhD Student Thesis: *Strong-Field Interference of Quantum Trajectories with Coulomb Distortion and Electron Correlation* |
-| 23/09/2013 - 22/06/2014  | University of Bristol                                | Prof. James Annett                     | **Role:** Masters Student Masters project: Berry phase of phonons in graphene. |
-| 29/07/2013 - 20/09/2013  | University of Bristol                                | Dr. Steve Brierley                     | **Role:** Summer Student Quantum information project, investigating MUBs in six dimensions. Funded by the Heilbronn Institute, a partnership between UoB and the UK Government Communication Head Quarters (GCHQ). |
-| 11/06/2012 - 31/08/2012  | University of Bristol                                | Prof. Jeremy O’Brien, Dr. J. P. Hadden | **Role:** Summer Student Quantum information project in photonics on spin properties of diamond colour centres, Nuffield undergraduate research programme. |
-# Publication Summary:
+Publication Summary:
+ -------------------------------
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
 **11 publications** (not including PhD Thesis): **8 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 3 in Phys. Rev. A, 2 in J. Phys. B, 1 in Linear Algebra Appl. and 1 conference proceedings. 2 recent review papers in Rep. Prog. Phys.
 
-# Talks, Conferences and Workshops Summary:
+Talks, Conferences and Workshops Summary:
+------------------------------------------
 
 I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference**. I have given **15 talks** at conferences and institutions, **8 international talks** and **5 invited talks**. I have been to 22 conferences and workshops in total and have presented 8 posters.
 
-# Supervision Experience Summary:
+Supervision Experience Summary:
+------------------------------------------
 
 I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have been the unofficial primary supervisor of a MSc student and played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
-# Reviewing:
+Reviewing:
+------------------------------------------
 
 Communications Physics (Nature), Physical Review A (APS), Journal of Physics A: Mathematical and  Theoretical (IOP).
 
-# Computer Skills:
+Computer Skills:
+------------------------------------------
 
 Skilled in: C, C++, Mathematica, python and Unix/ Linux. Competent in: Matlab.
 
 Funding
-=================================
+------------------------------------------
 
 | **Date**                | **Description**                                              |
 | ----------------------- | ------------------------------------------------------------ |
@@ -78,7 +133,7 @@ Funding
 | 14/01/2019 - 13/01/2021 | Two year EPSRC fellowship in quantum technologies at University College London quantum (UCLQ). |
 
 Teaching List
-=======================================
+------------------------------------------
 
 | Date                  | **Role** | Course Title/Description |
 |-----------------------|-----------------------|-----------------------|
@@ -90,7 +145,7 @@ Teaching List
 | 12/01/2015  -  02/02/2015 | Demonstrator    | Practical Mathematics with Mathematica (University College London) |
 
 Prizes
-================================
+------------------------------------------
 
 | **Date**   | **Description**                                              |
 | ---------- | ------------------------------------------------------------ |
@@ -103,7 +158,7 @@ Prizes
 
 
 Attended Postgraduate Courses
-=======================================================
+------------------------------------------
 
 
 |        **Date**         |                       **Description**                        |
@@ -113,7 +168,7 @@ Attended Postgraduate Courses
 
 
 Outreach and Organisational Roles
-===========================================================
+------------------------------------------
 
 
 
