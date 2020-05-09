@@ -39,7 +39,7 @@ Work and Experience
 =============================================
 
 
-| **Duration** -           | **Establishment**                                    | *Line Manager*                         | *Description*                                                |
+| **Duration**            | **Establishment**  | **Line Manager**                         | **Description**                                                |
 | ------------------------ | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
 | 14/01/2019  - 13/01/2021 | UCL, Quantum Science and Technology Institute (UCLQ) | Prof. Andrew Fisher                    | **Role:** Postdoctoral Fellow EPSRC Fellowship in Quantum Technologies at UCLQ: Quantum Sensing and Entangled Interferometry of Orbitals [quantum information of strong-field systems] |
 | 13/11/2018 - 12/12/2018  | WIPM, Wuhan                                          | Prof. Xiaojun Liu                      | **Role:** Visiting Researcher Collaboration on electron holography in molecules. |
