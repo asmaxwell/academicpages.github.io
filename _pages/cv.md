@@ -31,7 +31,6 @@ Education and Qualifications
 | **Duration**            | **Establishment**               | **Qualifications**                                 |
 | ----------------------- | ------------------------------- | -------------------------------------------------- |
 | 22/09/2014 - 28/01/2019 | University College London (UCL) | PhD in Physics                                     |
-|                         |                                 |                                                    |
 | 27/09/2010 - 26/06/2014 | University of Bristol  (UoB)    | MSci (Physics and Maths)  with First Class Honours |
 
 
