@@ -38,12 +38,14 @@ Work and Experience
 -------------------------------
 
 <table>
+
 <colgroup>
 <col style="width: 13%" />
 <col style="width: 29%" />
 <col style="width: 21%" />
 <col style="width: 34%" />
 </colgroup>
+
 <thead>
 <tr class="header">
 <th><strong>Duration</strong></th>
@@ -52,6 +54,7 @@ Work and Experience
 <th><strong>Description</strong></th>
 </tr>
 </thead>
+
 <tbody>
 <tr class="odd">
 <td>14/01/2019 - 13/01/2021</td>
@@ -97,8 +100,11 @@ Work and Experience
 </tr>
 </tbody>
 
+</table>
+
+
 Publication Summary:
- -------------------------------
+-------------------------------
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
