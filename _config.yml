@@ -84,8 +84,8 @@ author:
   avatar           : "profile.jpg"
   bio              : "Postdoctoral physicist working on quantum aspects of attoscience"
   location         : "London, United Kingdom"
-  employer         :
-  pubmed           : 
+  employer         : "Univeristy College London"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nmL4KXEAAAAJ&hl=en&authuser=1"
   email            : "andrew.maxwell@ucl.ac.uk"
   researchgate     :  "https://www.researchgate.net/profile/Andrew_Maxwell8"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-6503-4661"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "DrAndyMaxwell"
@@ -207,14 +207,14 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       comments: true
@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       comments: true
