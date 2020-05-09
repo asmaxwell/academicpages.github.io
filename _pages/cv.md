@@ -163,7 +163,7 @@ Prizes
 
 
 
-Attended Postgraduate Courses
+{>>Attended Postgraduate Courses
 ------------------------------------------
 
 
@@ -185,3 +185,4 @@ Outreach and Organisational Roles
 | 01/10/2016 - 20/06/2016 | Organiser | [UCL Hackathon](https://sites.google.com/view/uclphysicshackathon) on the organising committee for this event, where teams had to solve real life problems by building devices and using programming skills. |
 | 11/01/2016 - 19/12/2016 | Organiser | Informal lecture course on quantum field theory.             |
 | 22/09/2015 - 01/07/2016 | Organiser | Member of the physics postgraduate committee, organising talks and social events. |
+<<}
