@@ -16,13 +16,6 @@ Check out our new review on photoelectron holography [here](https://iopscience.i
 Upcoming Events
 =================
 
-DAMOP 2020
-------------------------------
-The 51st Annual Meeting of the APS Division of Atomic, Molecular and Optical Physics
-will be held virtually this year June 1 - June 5. I will be giving a talk on June 4th
-in Session 4. See my [abstract](http://meetings.aps.org/Meeting/DAMOP20/Session/N04.6)
-for more details.
-
 Quantum Battles in Attoscience
 ------------------------------
 From July 1-3 the UCL based conference quantum battles in attoscience will be held fully online. Check out the [website](https://www.quantumbattles.com/)
