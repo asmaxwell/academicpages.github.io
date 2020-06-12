@@ -21,7 +21,3 @@ Quantum Battles in Attoscience
 From July 1-3 the UCL based conference quantum battles in attoscience will be held fully online. Check out the [website](https://www.quantumbattles.com/)
 for more details. I will be speaking in the third battle "ab-initio vs analytical methods" held on the third day. [Registration](https://www.quantumbattles.com/registration1.html)
  for this conference is free!
-
- | **A Box**               |
- | ----------------------- |
- |                         |
