@@ -13,11 +13,10 @@ Postdoctoral fellow at University College London with an EPSRC fellowship in the
 Check out our new review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91)
 
 
-Upcoming Events
+Past Events
 =================
 
 Quantum Battles in Attoscience
 ------------------------------
-From July 1-3 the UCL based conference quantum battles in attoscience will be held fully online. Check out the [website](https://www.quantumbattles.com/)
-for more details. I will be speaking in the third battle "ab-initio vs analytical methods" held on the third day. [Registration](https://www.quantumbattles.com/registration1.html)
- for this conference is free!
+I helped organise the fully online UCL based conference quantum battles in attoscience, which was held July 1-3. Check out the [website](https://www.quantumbattles.com/)
+for more details. All the talks, including the battle I was involved in, are avaible on the [YouTube channel](https://www.youtube.com/channel/UCBg-O7WZ8gZLBb6jTWn-McA/featured).
