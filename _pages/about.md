@@ -19,4 +19,4 @@ Past Events
 Quantum Battles in Attoscience
 ------------------------------
 I helped organise the fully online UCL based conference quantum battles in attoscience, which was held July 1-3. Check out the [website](https://www.quantumbattles.com/)
-for more details. All the talks, including the battle I was involved in, are avaible on the [YouTube channel](https://www.youtube.com/channel/UCBg-O7WZ8gZLBb6jTWn-McA/featured).
+for more details. All the talks, including the battle I was involved in, are available on the [YouTube channel](https://www.youtube.com/channel/UCBg-O7WZ8gZLBb6jTWn-McA/featured).
