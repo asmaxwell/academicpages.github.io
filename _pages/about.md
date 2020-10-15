@@ -10,11 +10,17 @@ redirect_from:
 
 Postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ) currently investigating previously neglected quantum effects such as entanglement in strong field systems. [UCL Home page](https://iris.ucl.ac.uk/iris/browse/profile?upi=ASAMA74).
 
+From November 2nd I will be starting a new post doc at [ICFO](https://www.icfo.eu/).
+
 Check out our new review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91)
 
 
-Past Events
+News and Events
 =================
+
+Reviewer of the month
+------------------------------
+I was listed as [reviewer of the month](https://www.nature.com/commsphys/referees/outstanding-referees) for October 2020 by the journal [Communication Physics Nature](https://www.nature.com/commsphys/)
 
 Quantum Battles in Attoscience
 ------------------------------
