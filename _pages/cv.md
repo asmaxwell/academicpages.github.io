@@ -55,6 +55,13 @@ Work and Experience
 </tr>
 </thead>
 
+<tr class="odd">
+<td>29/10/2018 - 08/11/2018</td>
+<td>ICFO, Barcelona</td>
+<td>Prof. Maciej Lewenstein</td>
+<td><strong>Role:</strong> Postdoctoral researcher working on theory of novel quantum simulators – connecting areas (NOQIA) focusing on strong field physics, quantum simulators and quantum effects </td>
+</tr>
+
 <tbody>
 <tr class="odd">
 <td>14/01/2019 - 13/01/2021</td>
