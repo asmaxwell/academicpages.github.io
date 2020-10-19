@@ -108,12 +108,12 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**11 publications** (not including PhD Thesis): **8 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 3 in Phys. Rev. A, 2 in J. Phys. B, 1 in Linear Algebra Appl. and 1 conference proceedings. 2 recent review papers in Rep. Prog. Phys.
+**14 publications** (not including PhD Thesis): **9 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 4 in Phys. Rev. A, 2 in J. Phys. B, 1 in Linear Algebra Appl. 2 recent review papers in Rep. Prog. Phys.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference**. I have given **15 talks** at conferences and institutions, **8 international talks** and **5 invited talks**. I have been to 22 conferences and workshops in total and have presented 8 posters.
+I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference**. I have given **18 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **3 virtual talks**.
 
 Supervision Experience Summary:
 ------------------------------------------
@@ -123,7 +123,7 @@ I have **lectured at a postgraduate level** and demonstrated undergraduate cours
 Reviewing:
 ------------------------------------------
 
-Communications Physics (Nature), Physical Review A (APS), Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
+Communications Physics (Nature), 2 Physical Review A (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
 Physics B: Atomic, Molecular and Optical Physics (IOP).
 
 Computer Skills:
