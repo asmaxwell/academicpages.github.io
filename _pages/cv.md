@@ -17,11 +17,13 @@ My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
 Instituto de Ciencias Fotónicas (ICFO) in Barcelona,
-Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate. I am
-currently doing a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
+Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate.
+I am just finishing a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
 College London (UCL) quantum science and technology institute (UCLQ),
 investigating previously neglected quantum effects such as entanglement
 in strong field systems.
+I will start at postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona
+in November, researching entanglement and quantum simulators in strong field systems.
 
 Education and Qualifications
 -------------------------------
@@ -56,7 +58,7 @@ Work and Experience
 </thead>
 
 <tr class="odd">
-<td>29/10/2018 - 08/11/2018</td>
+<td>02/11/2020 - ongoing</td>
 <td>ICFO, Barcelona</td>
 <td>Prof. Maciej Lewenstein</td>
 <td><strong>Role:</strong> Postdoctoral researcher working on theory of novel quantum simulators – connecting areas (NOQIA) focusing on strong field physics, quantum simulators and quantum effects </td>
