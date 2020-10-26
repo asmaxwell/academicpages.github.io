@@ -20,7 +20,7 @@ Instituto de Ciencias Fotónicas (ICFO) in Barcelona,
 Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate.
 I am just finishing a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
 College London (UCL) quantum science and technology institute (UCLQ),
-investigating previously neglected quantum effects such as entanglement
+investigating previously neglected quantum effects
 in strong field systems.
 I will start at postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona
 in November, researching entanglement and quantum simulators in strong field systems.
