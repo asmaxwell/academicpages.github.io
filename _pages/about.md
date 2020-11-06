@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Postdoctoral Researcher at ICFO-The Institue of Photonic Sciences investigating quantum aspects of attoscience. [ICFO Homepage](https://www.icfo.es/lang/about-icfo/people/people_details?people_id=1865)
+Previously, I was a postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ), where I worked on quantum metrology in attoscience as well as photoelectron holography. [UCL Homepage](https://iris.ucl.ac.uk/iris/browse/profile?upi=ASAMA74).
 
-Postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ) currently investigating previously neglected quantum effects such as entanglement in strong field systems. [UCL Home page](https://iris.ucl.ac.uk/iris/browse/profile?upi=ASAMA74).
 
-From November 2nd I will be starting a new post doc at [ICFO](https://www.icfo.eu/).
 
 Check out our new review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91)
 
