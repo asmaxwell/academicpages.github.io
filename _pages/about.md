@@ -12,12 +12,18 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 
 
 
-Check out our new review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91)
+
 
 
 News and Events
 =================
+I will be preenting the [following](https://pubs.rsc.org/en/content/articlehtml/2020/fd/d0fd00105h) work on twisted electron in strong field ionizaiton at the Faraday discussion in February.
 
+See our latest work on metrology in strong field physics [here](https://arxiv.org/pdf/2008.10070.pdf).
+
+Check out our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
+
+<!---
 Reviewer of the month
 ------------------------------
 I was listed as [reviewer of the month](https://www.nature.com/commsphys/referees/outstanding-referees) for October 2020 by the journal [Communication Physics Nature](https://www.nature.com/commsphys/)
@@ -26,3 +32,4 @@ Quantum Battles in Attoscience
 ------------------------------
 I helped organise the fully online UCL based conference quantum battles in attoscience, which was held July 1-3. Check out the [website](https://www.quantumbattles.com/)
 for more details. All the talks, including the battle I was involved in, are available on the [YouTube channel](https://www.youtube.com/channel/UCBg-O7WZ8gZLBb6jTWn-McA/featured).
+-->
