@@ -19,7 +19,7 @@ News and Events
 =================
 I will be presenting the [following](https://pubs.rsc.org/en/content/articlehtml/2020/fd/d0fd00105h) work on twisted electron in strong field ionization at the Faraday discussion in February.
 
-See our latest work on metrology in strong field physics [here](https://arxiv.org/pdf/2008.10070.pdf).
+At the upcoming [APS March meeting](https://march.aps.org/) I will present our latest work on metrology in strong field physics [here](https://arxiv.org/pdf/2008.10070.pdf).
 
 Check out our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
 
