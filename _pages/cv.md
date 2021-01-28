@@ -116,7 +116,7 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**14 publications** (not including PhD Thesis): **9 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 4 in Phys. Rev. A, 2 in J. Phys. B, 1 in Linear Algebra Appl. 2 recent review papers in Rep. Prog. Phys.
+**19 publications** (not including PhD Thesis): **14 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 2 review papers in Rep. Prog. Phys., 1 in the Faraday Discussions, 4 in Phys. Rev. A, 1 in Phys. Rev. B, 2 in J. Phys. B, 1 in Linear Algebra Appl. 
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
