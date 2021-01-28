@@ -18,12 +18,11 @@ directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
 Instituto de Ciencias Fotónicas (ICFO) in Barcelona,
 Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate.
-I am just finishing a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
+I recently finished a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
 College London (UCL) quantum science and technology institute (UCLQ),
-investigating previously neglected quantum effects
+investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
-I will start at postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona
-in November, researching entanglement and quantum simulators in strong field systems.
+Since November I have been doing a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems. I was awarded a Marie Skłodowska-Curie Individual Fellowship to commence in September at Aarhus University in Denmark.
 
 Education and Qualifications
 -------------------------------
