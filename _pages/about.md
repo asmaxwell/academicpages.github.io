@@ -17,7 +17,7 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 
 News and Events
 =================
-I will be presenting the [following](https://pubs.rsc.org/en/content/articlehtml/2020/fd/d0fd00105h) work on twisted electron in strong field ionizaiton at the Faraday discussion in February.
+I will be presenting the [following](https://pubs.rsc.org/en/content/articlehtml/2020/fd/d0fd00105h) work on twisted electron in strong field ionization at the Faraday discussion in February.
 
 See our latest work on metrology in strong field physics [here](https://arxiv.org/pdf/2008.10070.pdf).
 
