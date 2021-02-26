@@ -116,17 +116,17 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**20 publications** (not including PhD Thesis): **12 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 2 review papers in Rep. Prog. Phys., 1 in the Faraday Discussions, 5 in Phys. Rev. A, 1 in Phys. Rev. B, 2 in J. Phys. B, 1 in Linear Algebra Appl, 3 conference proceedings and 4 on arXiv under review. 
+**21 publications** (not including PhD Thesis): **13 first author publications** in leading international journals, including **1 in Phys. Rev. Lett.**, 2 review papers in Rep. Prog. Phys., 1 in the Faraday Discussions, 5 in Phys. Rev. A, 1 in Phys. Rev. B, 2 in J. Phys. B, 1 in Linear Algebra Appl, 3 conference proceedings and 5 on arXiv under review.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference**. I have given **18 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **3 virtual talks**.
+I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference** and was one of the primary organisers involved for the Quantum Battles 2020 virtual conference. I have given **19 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **4 virtual talks**.
 
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have supervised one MSc student, the project resulted in two publications one in press and one in preparation. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have supervised **supervised one MSc student and am in the process of supervising another**, the former project resulted in two publications one in the Faraday discussions and one currently under review. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
