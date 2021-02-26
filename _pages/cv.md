@@ -126,7 +126,7 @@ I have organised **1 talk** on quantum technologies by Fujitsu and I am on the o
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have supervised **supervised one MSc student and am in the process of supervising another**, the former project resulted in two publications one in the Faraday discussions and one currently under review. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have **supervised one MSc student and am in the process of supervising another**, the former project resulted in two publications one in the Faraday discussions and one currently under review. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
