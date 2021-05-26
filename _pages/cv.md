@@ -131,7 +131,7 @@ I have **lectured at a postgraduate level** and demonstrated undergraduate cours
 Reviewing:
 ------------------------------------------
 
-Communications Physics (Nature), 2 Physical Review A (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
+Communications Physics (Nature), 4 Physical Review A (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
 Physics B: Atomic, Molecular and Optical Physics (IOP).
 
 Computer Skills:
