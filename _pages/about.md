@@ -20,7 +20,7 @@ News and Events
 
 Check out our latest work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519), which I presented at the [APS March meeting](https://meetings.aps.org/Meeting/MAR21/Session/F28.8).
 
-I will be speaking at this years virtual [ICPEAC conference](https://www.icpeac2021.ca/) on the work we have done on orbtial angular momentum in strong field ionization, which include interferences vortices, probing chirality and investigating entanglement.
+I will be presenting a poster at this years virtual [ICPEAC conference](https://www.icpeac2021.ca/) on the work we have done on orbtial angular momentum in strong field ionization, which include interferences vortices, probing chirality and investigating entanglement.
 
 Check out our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
 
