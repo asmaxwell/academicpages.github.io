@@ -121,7 +121,7 @@ Publication Summary:
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised **1 talk** on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference** and was one of the primary organisers involved for the Quantum Battles 2020 virtual conference. I have given **19 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **4 virtual talks**.
+I have organised a talk on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference** and was one of the primary organisers involved for the Quantum Battles 2020 virtual conference. I have given **19 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **4 virtual talks**.
 
 Supervision Experience Summary:
 ------------------------------------------
