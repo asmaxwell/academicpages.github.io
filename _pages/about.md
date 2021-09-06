@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Researcher at ICFO-The Institute of Photonic Sciences investigating entanglement in orbital angular momentum and machine learning techniques in attoscience [ICFO Homepage](https://www.icfo.es/lang/about-icfo/people/people_details?people_id=1865).
-Previously, I was a postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ), where I worked on quantum metrology in attoscience as well as photoelectron holography. From September I will start a Marie Curie fellowship at Aarhus University, Denmark.
+I am a Marie Curie Individual Fellow at Aarhus University investigating spin and orbital angular momentum in strong field systems,  [Aarhus Homepage](https://pure.au.dk/portal/da/persons/andrew-maxwell(2cc779f0-ebc1-4c1a-8ddc-de305916e54f).html).
+Previously, I was a postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ), where I worked on quantum metrology in attoscience as well as photoelectron holography. After that I worked at ICFO-The Institute of Photonic Sciences investigating entanglement in orbital angular momentum and chirality in attoscience.
 
 
 
@@ -18,8 +18,8 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 News and Events
 =================
 
-Check out our latest work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519), which I presented at the [APS March meeting](https://meetings.aps.org/Meeting/MAR21/Session/F28.8).
 
+Check out work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519), which I presented at the [APS March meeting](https://meetings.aps.org/Meeting/MAR21/Session/F28.8).
 
 Check out our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
 
