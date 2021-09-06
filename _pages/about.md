@@ -17,7 +17,9 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 
 News and Events
 =================
+We recently published a Plato style dialogue on analytical and ab initio methods for Quantum Battles in attoscience: [Eur. Phys. J. D (2021) 75: 209](https://doi.org/10.1140/epjd/s10053-021-00207-3).
 
+Here are the latest paper we published on OAM in strong field physics 	[Faraday Discuss., 2021,228, 394-412](https://doi.org/10.1039/D0FD00105H) and [Eur. Phys. J. D (2021) 75: 199](https://doi.org/10.1140/epjd/s10053-021-00214-4).
 
 Check out work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519), which I presented at the [APS March meeting](https://meetings.aps.org/Meeting/MAR21/Session/F28.8).
 
