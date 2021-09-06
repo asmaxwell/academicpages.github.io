@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Andrew S Maxwell"
 title_separator          : "-"
 name                     : &name "Andrew S Maxwell"
-description              : &description "Postdoctoral Researcher at ICFO"
+description              : &description "Marie Curie Fellow at Aarhus University"
 url                      : https://asmaxwell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asmaxwell/asmaxwell.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Andy Maxwell"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral physicist working on quantum aspects of attoscience"
-  location         : "Barcelona, Spain"
-  employer         : "The Institute of Photonic Sciences"
+  location         : "Aarhus, Denmark"
+  employer         : "Aarhus University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nmL4KXEAAAAJ&hl=en&authuser=1"
-  email            : "andrew.maxwell@icfo.eu"
+  email            : "andrew.maxwell@phys.au.dk.eu"
   researchgate     :  "https://www.researchgate.net/profile/Andrew_Maxwell8"
   uri              :
   bitbucket        :
