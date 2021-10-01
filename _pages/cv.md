@@ -12,7 +12,7 @@ redirect_from:
 
 Summary and Impact of Research
 -------------------------------
-I am currently doing a a Marie Skłodowska-Curie Individual Fellowship to commence in September at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research hostroy is as follows:
+I am currently doing a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research hostroy is as follows:
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
@@ -131,8 +131,9 @@ I have **lectured at a postgraduate level** and demonstrated undergraduate cours
 Reviewing:
 ------------------------------------------
 
-Communications Physics (Nature), 4 Physical Review A (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
-Physics B: Atomic, Molecular and Optical Physics (IOP).
+Communications Physics (Nature), 5 Physical Review A (APS), Physical Review R (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
+Physics B: Atomic, Molecular and Optical Physics (IOP), European Journal of Physics D and Communications in Nonlinear Science
+and Numerical Simulation.
 
 Computer Skills:
 ------------------------------------------
