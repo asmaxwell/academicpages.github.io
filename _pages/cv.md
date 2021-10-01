@@ -12,7 +12,7 @@ redirect_from:
 
 Summary and Impact of Research
 -------------------------------
-
+I am currently doing a a Marie Skłodowska-Curie Individual Fellowship to commence in September at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research hostroy is as follows:
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
@@ -22,7 +22,7 @@ I recently finished a two-year Engineering and Physical Sciences Research Counci
 College London (UCL) quantum science and technology institute (UCLQ),
 investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
-Since November I have been doing a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems. I was awarded a Marie Skłodowska-Curie Individual Fellowship to commence in September at Aarhus University in Denmark.
+From November  2020 until September 2021 I did a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems.
 
 Education and Qualifications
 -------------------------------
@@ -126,7 +126,7 @@ I have organised a talk on quantum technologies by Fujitsu and I am on the organ
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have **supervised one MSc student and am in the process of supervising another**, the former project resulted in two publications one in the Faraday discussions and one currently under review. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have **supervised 2 masters students**, the former project resulted in two publications one in the Faraday discussions and one in European Journal of physics D. The latter has a publication being written. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
