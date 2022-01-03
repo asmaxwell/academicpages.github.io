@@ -126,7 +126,7 @@ I have organised a talk on quantum technologies by Fujitsu and I am on the organ
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have **supervised 2 masters students**, the former project resulted in two publications one in the Faraday discussions and one in European Journal of physics D. The latter has a publication being written. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in preparation. I am **currently supervising two BSc students**. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------

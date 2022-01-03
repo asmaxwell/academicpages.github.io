@@ -5,5 +5,5 @@ permalink: " /publication/2017-08-22-Coulomb-corrected quantum interference in a
 date: 2017-08-22
 venue: 'Phys. Rev. A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.023420'
-citation: 'A. S. Maxwell, A. Al-Jawahiry, T. Das &amp; C. Figueria de Morisson Faria. Phys. Rev. A 96, 023420 (2017)'
+citation: 'A. S. Maxwell, A. Al-Jawahiry, T. Das and C. Figueria de Morisson Faria. Phys. Rev. A 96, 023420 (2017)'
 ---

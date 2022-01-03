@@ -5,5 +5,5 @@ permalink: " /publication/2015-08-01-On properties of Karlsson Hadamards and set
 date: 2015-08-01
 venue: 'Linear Algebra and Its Applications,'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0024379514006867'
-citation: 'A. S. Maxwell &amp; S. Brierley. Linear Algebra and Its Applications, 466, 296306 (2015)'
+citation: 'A. S. Maxwell and S. Brierley. Linear Algebra and Its Applications, 466, 296306 (2015)'
 ---

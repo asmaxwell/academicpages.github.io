@@ -1,7 +1,7 @@
 ---
 title: "Spiral-like Holographic Structures: Unwinding Interference Carpets of Coulomb-Distorted Orbits in Strong-Field Ionization"
 collection: publications
-permalink: " /publication/2020-09-21-Spiral-like holographic structures: Unwinding interference carpets of Coulomb-distorted orbits in strong-field ionization"
+permalink: " /publication/2020-09-21-Spiral-like Holographic Structures: Unwinding Interference Carpets of Coulomb-Distorted Orbits in Strong-Field Ionization"
 date: 2020-09-21
 venue: 'Phys. Rev. A'
 paperurl: 'https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.033111'
