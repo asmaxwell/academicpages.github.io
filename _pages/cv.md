@@ -56,14 +56,22 @@ Work and Experience
 </tr>
 </thead>
 
+<tbody>
+<tr class="even">
+<td>01/09/2021 - ongoing</td>
+<td>Aarhus University, Denmark</td>
+<td>Prof. Lars Bojer Madsen</td>
+<td><strong>Role:</strong> Marie Curie Fellowship (SSFI) on spin and orbital angular momentum in strong field systems</td>
+</tr>
+
 <tr class="odd">
-<td>02/11/2020 - ongoing</td>
+<td>02/11/2020 - 31/08/2021</td>
 <td>ICFO, Barcelona</td>
 <td>Prof. Maciej Lewenstein</td>
 <td><strong>Role:</strong> Postdoctoral researcher working on theory of novel quantum simulators – connecting areas (NOQIA) focusing on strong field physics, quantum simulators and quantum effects </td>
 </tr>
 
-<tbody>
+
 <tr class="odd">
 <td>14/01/2019 - 13/01/2021</td>
 <td>UCL, Quantum Science and Technology Institute (UCLQ)</td>
