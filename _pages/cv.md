@@ -132,7 +132,7 @@ Reviewing:
 ------------------------------------------
 
 Communications Physics (Nature), 5 Physical Review A (APS), Physical Review R (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
-Physics B: Atomic, Molecular and Optical Physics (IOP), European Journal of Physics D and Communications in Nonlinear Science
+Physics B: Atomic, Molecular and Optical Physics (IOP), European Journal of Physics D, 2 Optics Express and Communications in Nonlinear Science
 and Numerical Simulation.
 
 Computer Skills:

@@ -23,9 +23,7 @@ A Plato style dialogue on analytical and ab initio methods for Quantum Battles i
 
 Some recent papers we published on OAM in strong field physics 	[Faraday Discuss., 2021,228, 394-412](https://doi.org/10.1039/D0FD00105H) and [Eur. Phys. J. D (2021) 75: 199](https://doi.org/10.1140/epjd/s10053-021-00214-4).
 
-Check out work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519), which I presented at the [APS March meeting](https://meetings.aps.org/Meeting/MAR21/Session/F28.8).
-
-Check out our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
+Check out work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519) and our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
 
 <!---
 
