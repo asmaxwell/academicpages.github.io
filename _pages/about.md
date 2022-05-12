@@ -17,6 +17,8 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 
 News and Events
 =================
+See our recent work on [detecting chiral molecules](https://arxiv.org/abs/2202.07289) by using the orbital angular momentum of photoelectrons ionized by strong laser fields.
+
 We recently submitted some work demonstrating entanglement between two photoelectrons in non-sequential double ionization, by examining their orbital angular momentum using structured vortex states. [Check it out on arXiv](https://arxiv.org/abs/2111.10148)
 
 A Plato style dialogue on analytical and ab initio methods for Quantum Battles in attoscience: [Eur. Phys. J. D (2021) 75: 209](https://doi.org/10.1140/epjd/s10053-021-00207-3).
