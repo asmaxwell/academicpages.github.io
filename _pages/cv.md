@@ -134,7 +134,7 @@ I have organised a talk on quantum technologies by Fujitsu and I am on the organ
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level** and demonstrated undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in preparation. I am **currently supervising two BSc students**. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in preparation. I am **currently supervising two BSc students**. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
@@ -161,6 +161,7 @@ Teaching List
 
 | Date                  | **Role** | Course Title/Description |
 |-----------------------|-----------------------|-----------------------|
+| 11/05/2022 | Contributing Lecturer          | Ultrafast science (Aarhus University) |
 | 23/09/2019 -13/12/2019 | Demonstrator          | Practical Physics & Computing 1 -- in python (University College London) |
 | 25/09/2017 -15/12/2017 | Marker | Theory of Dynamical Systems (University College London) |
 | 07/11/2016 - 09/11/2016 | Lecturer | Graduate Programming Courses in C++ (University College London) |
