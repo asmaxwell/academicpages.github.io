@@ -12,13 +12,13 @@ redirect_from:
 
 Summary and Impact of Research
 -------------------------------
-I am currently doing a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research hostroy is as follows:
+I am currently doing a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research history is as follows:
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
 Instituto de Ciencias Fotónicas (ICFO) in Barcelona,
 Spain for two weeks and the Wuhan Institute of Physics and Mathematics (WIPM) in China for a month to collaborate.
-I recently finished a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
+I went on to do a two-year Engineering and Physical Sciences Research Council (EPSRC) funded fellowship at the University
 College London (UCL) quantum science and technology institute (UCLQ),
 investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
@@ -94,7 +94,7 @@ Work and Experience
 <td>22/09/2014 - 28/01/2019</td>
 <td>University College London</td>
 <td>Prof. Carla Figueira de Morisson Faria</td>
-<td><strong>Role:</strong> PhD Student Thesis: <em>Strong-Field Interference of Quantum Trajectories with Coulomb Distortion and Electron Correlation</em></td>
+<td><strong>Role:</strong> PhD Student, Thesis: <em>Strong-Field Interference of Quantum Trajectories with Coulomb Distortion and Electron Correlation</em></td>
 </tr>
 <tr class="odd">
 <td>23/09/2013 - 22/06/2014</td>
