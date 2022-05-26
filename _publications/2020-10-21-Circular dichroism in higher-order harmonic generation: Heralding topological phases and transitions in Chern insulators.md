@@ -5,5 +5,5 @@ permalink: " /publication/2020-10-21-Circular dichroism in higher-order harmonic
 date: 2020-10-21
 venue: 'Phys. Rev. B'
 paperurl: 'https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.134115'
-citation: 'Alexis Chacón, Dasol Kim, Wei Zhu, Shane P. Kelly, Alexandre Dauphin, Emilio Pisanty, Andrew S. Maxwell, Antonio Picón, Marcelo F. Ciappina, Dong Eon Kim, Christopher Ticknor, Avadh Saxena, and Maciej Lewenstein Phys. Rev. B 102, 134115 (2020)'
+citation: 'A. Chacón, D. Kim, W. Zhu, S. P. Kelly, A. Dauphin, E. Pisanty, A. S. Maxwell, A. Picón, M. F. Ciappina, D. E. Kim, C. T., A. Saxena, and M. Lewenstein Phys. Rev. B 102, 134115 (2020)'
 ---

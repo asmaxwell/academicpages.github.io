@@ -161,7 +161,7 @@ Teaching List
 
 | Date                  | **Role** | Course Title/Description |
 |-----------------------|-----------------------|-----------------------|
-| 11/05/2022 | Contributing Lecturer          | Ultrafast science (Aarhus University) |
+| 11/05/2022 | Contributing Lecturer | Ultrafast science (Aarhus University) |
 | 23/09/2019 -13/12/2019 | Demonstrator          | Practical Physics & Computing 1 -- in python (University College London) |
 | 25/09/2017 -15/12/2017 | Marker | Theory of Dynamical Systems (University College London) |
 | 07/11/2016 - 09/11/2016 | Lecturer | Graduate Programming Courses in C++ (University College London) |
