@@ -124,23 +124,23 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**23 publications** (not including PhD Thesis): **14 are first author publications** and **1 is last author** in leading international journals.  Breakdown by journal: **1 in Phys. Rev. Lett.**, 2 review papers in Rep. Prog. Phys., 1 in the Faraday Discussions, 8 in Phys. Rev. A, 1 in Phys. Rev. B, 3 in J. Phys. B, 2 in Eur. Phys. J. D, 1 in Linear Algebra Appl, 3 conference proceedings and 1 on arXiv under review.
+**26 publications** (not including PhD Thesis): **14 are first author publications** and **2 is last author** in leading international journals.  Breakdown by journal: **1 in Phys. Rev. Lett.**, 2 review papers in Rep. Prog. Phys., 1 in the Faraday Discussions, 9 in Phys. Rev. A, 1 in Phys. Rev. B, 3 in J. Phys. B, 2 in Eur. Phys. J. D, 1 in Linear Algebra Appl, J. Phys. Conf. Ser. and 3 on arXiv under review.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised a talk on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference** and was one of the primary organisers involved for the Quantum Battles 2020 virtual conference. I have given **19 talks** at conferences and institutions, **8 international talks**, **5 invited talks** and **4 virtual talks**.
+I have organised a talk on quantum technologies by Fujitsu and I am on the organisation committee for the **Quantum Battles conference** and was one of the primary organisers involved for the Quantum Battles 2020 virtual conference. I have given **22 talks** at conferences and institutions, **17 international talks** and **10 invited talks**.
 
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in preparation. I am **currently supervising two BSc students**. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate and undergraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in preparation. I am **currently supervising two BSc students**. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
 
-Communications Physics (Nature), 5 Physical Review A (APS), Physical Review R (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
-Physics B: Atomic, Molecular and Optical Physics (IOP), European Journal of Physics D, 2 Optics Express and Communications in Nonlinear Science
+Communications Physics (Nature), 6 Physical Review A (APS), Physical Review R (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
+Physics B: Atomic, Molecular and Optical Physics (IOP), 2 European Journal of Physics D, 2 Optics Express and Communications in Nonlinear Science
 and Numerical Simulation.
 
 Computer Skills:
@@ -161,7 +161,7 @@ Teaching List
 
 | Date                  | **Role** | Course Title/Description |
 |-----------------------|-----------------------|-----------------------|
-| 11/05/2022 | Contributing Lecturer | Ultrafast science (Aarhus University) |
+| 11/05/2022 | Contributing Lecturer | Ultrafast Science (Aarhus University) |
 | 23/09/2019 -13/12/2019 | Demonstrator          | Practical Physics & Computing 1 -- in python (University College London) |
 | 25/09/2017 -15/12/2017 | Marker | Theory of Dynamical Systems (University College London) |
 | 07/11/2016 - 09/11/2016 | Lecturer | Graduate Programming Courses in C++ (University College London) |
