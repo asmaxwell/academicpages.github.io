@@ -124,16 +124,17 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**31 publications** (not including PhD Thesis): **14 are first author publications** and **2 are last author** in leading international journals.  Breakdown by journal:
+**32 publications** (not including PhD Thesis): **14 are first author publications** and **2 are last author** in leading international journals.  Breakdown by journal:
 **1 in Nat. Commun.**,
 **2 in Phys. Rev. Lett.**,
 2 review papers in Rep. Prog. Phys.,
 1 in the Faraday Discussions,
-11 in Phys. Rev. A,
+12 in Phys. Rev. A,
 1 in Phys. Rev. B,
 3 in J. Phys. B,
 2 in Eur. Phys. J. D,
-1 in Linear Algebra Appl, 3 in J. Phys. Conf. Ser.
+1 in Linear Algebra Appl,
+3 in J. Phys. Conf. Ser.
 and
 3 on arXiv under review.
 
@@ -150,9 +151,15 @@ I have **lectured at a postgraduate and undergraduate level**, and contributed t
 Reviewing:
 ------------------------------------------
 
-Communications Physics (Nature), 9 Physical Review A (APS), Physical Review R (APS), 2 Journal of Physics A: Mathematical and Theoretical (IOP), Journal of
-Physics B: Atomic, Molecular and Optical Physics (IOP), 2 European Journal of Physics D, 2 Optics Express, and Communications in Nonlinear Science
-and Numerical Simulation.
+Physical Review Letters (APS),
+Communications Physics (Nature),
+9 Physical Review A (APS),
+Physical Review R (APS),
+2 Journal of Physics A: Mathematical and Theoretical (IOP),
+Journal of Physics B: Atomic, Molecular and Optical Physics (IOP),
+2 European Journal of Physics D,
+2 Optics Express, and
+Communications in Nonlinear Science and Numerical Simulation.
 
 Computer Skills:
 ------------------------------------------
@@ -180,7 +187,7 @@ Teaching List
 |11/11/2015  - 13/11/2015|Demonstrator|Graduate Programming Courses in C++ (University College London)|
 | 12/01/2015  -  02/02/2015 | Demonstrator    | Practical Mathematics with Mathematica (University College London) |
 
-Prizes
+<!--Prizes
 ------------------------------------------
 
 | **Date**   | **Description**                                              |
@@ -193,7 +200,7 @@ Prizes
 
 
 
-<!--Attended Postgraduate Courses
+Attended Postgraduate Courses
 ------------------------------------------
 
 
