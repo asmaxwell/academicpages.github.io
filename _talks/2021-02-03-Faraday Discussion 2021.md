@@ -1,7 +1,7 @@
 ---
 title: "Manipulating Twisted Electrons in Strong-Field Ionization"
 collection: talks
-type: "Conference"
+type: "Talk"
 permalink: /talks/2021-02-03-Faraday Discussion 2021
 venue: "Faraday Discussions  – Time-resolved imaging of photo-induced dynamics Faraday Discussion"
 date: 2021-02-03
