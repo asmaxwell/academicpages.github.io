@@ -1,7 +1,7 @@
 ---
 title: "Ultrafast imaging of molecular chirality with photoelectron vortices"
 collection: talks
-type: "Conference"
+type: "Talk"
 permalink: /talks/2022-06-08-GRC Multiphoton
 venue: "Bryant University"
 date: 2022-06-08
