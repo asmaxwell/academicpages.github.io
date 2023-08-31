@@ -124,11 +124,12 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**32 publications** (not including PhD Thesis): **14 are first author publications** and **2 are last author** in leading international journals.  Breakdown by journal:
+**36 publications** (not including PhD Thesis): **15 are first author publications** and **3 are last author** in leading international journals.  Breakdown by journal:
 **1 in Nat. Commun.**,
 **2 in Phys. Rev. Lett.**,
-2 review papers in Rep. Prog. Phys.,
+3 review papers in Rep. Prog. Phys.,
 1 in the Faraday Discussions,
+1 in New J. Phys.,
 12 in Phys. Rev. A,
 1 in Phys. Rev. B,
 3 in J. Phys. B,
@@ -136,12 +137,12 @@ Publication Summary:
 1 in Linear Algebra Appl,
 3 in J. Phys. Conf. Ser.
 and
-3 on arXiv under review.
+5 on arXiv under review.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised a talk on quantum technologies by Fujitsu, I was one of the primary organisers involved for the Quantum Battles 2020 virtual conference, and I am co-chair for multiphoton 2024 GRS. I have given **23 talks** at conferences and institutions, **18 international talks** and **11 invited talks**.
+I have organised a talk on quantum technologies by Fujitsu, I was one of the primary organisers involved for the Quantum Battles 2020 virtual conference, and I am co-chair for multiphoton 2024 GRS. I have given **26 talks** at conferences and institutions, **22 international talks** and **13 invited talks**.
 
 Supervision Experience Summary:
 ------------------------------------------
@@ -151,15 +152,17 @@ I have **lectured at a postgraduate and undergraduate level**, and contributed t
 Reviewing:
 ------------------------------------------
 
-Physical Review Letters (APS),
-Communications Physics (Nature),
-9 Physical Review A (APS),
+1 Physical Review Letters (APS),
+1 Communications Physics (Nature),
+10 Physical Review A (APS),
 Physical Review R (APS),
-2 Journal of Physics A: Mathematical and Theoretical (IOP),
+3 Journal of Physics A: Mathematical and Theoretical (IOP),
 Journal of Physics B: Atomic, Molecular and Optical Physics (IOP),
 2 European Journal of Physics D,
-2 Optics Express, and
-Communications in Nonlinear Science and Numerical Simulation.
+2 Optics Express,
+1 Journal of Modern Optics,
+and
+1Communications in Nonlinear Science and Numerical Simulation.
 
 Computer Skills:
 ------------------------------------------
