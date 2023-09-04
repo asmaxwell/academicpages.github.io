@@ -17,6 +17,9 @@ Previously, I was a postdoctoral fellow at University College London with an EPS
 
 News and Events
 =================
+See our latest [paper on machine learning in strong-field ionization](https://iopscience.iop.org/article/10.1088/1367-2630/acee19/meta)
+, using convolutional neural networks to characterize the laser field.
+
 See our recent work, recently accepted for publication by Physical Review Letters, [detecting chiral molecules](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.233201) by using the orbital angular momentum of photoelectrons ionized by strong laser fields.
 
 We had some work published in Nature Communications demonstrating entanglement between two photoelectrons in non-sequential double ionization, by examining their orbital angular momentum using structured vortex states. [Check it out!](https://www.nature.com/articles/s41467-022-32128-z)
