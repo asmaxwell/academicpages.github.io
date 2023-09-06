@@ -22,7 +22,7 @@ See our latest [paper on machine learning in strong-field ionization](https://io
 
 See our recent work, recently accepted for publication by Physical Review Letters, [detecting chiral molecules](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.233201) by using the orbital angular momentum of photoelectrons ionized by strong laser fields.
 
-We had some work published in Nature Communications demonstrating entanglement between two photoelectrons in non-sequential double ionization, by examining their orbital angular momentum using structured vortex states. [Check it out!](https://www.nature.com/articles/s41467-022-32128-z)
+We had some work published in Nature Communications demonstrating entanglement between two photoelectrons in non-sequential double ionization, by examining their orbital angular momentum using structured vortex states. [Check it out!](https://www.nature.com/articles/s41467-022-32128-z). See [popular summary](https://www.icfo.eu/news/2064/entanglement-reveals-itself-to-attosecond-physics-/) on ICFO website.
 
 A Plato style dialogue on analytical and ab initio methods for Quantum Battles in attoscience: [Eur. Phys. J. D (2021) 75: 209](https://doi.org/10.1140/epjd/s10053-021-00207-3).
 
