@@ -124,7 +124,7 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**36 publications** (not including PhD Thesis): **15 are first author publications** and **3 are last author** in leading international journals.  Breakdown by journal:
+**37 publications** (not including PhD Thesis): **15 are first author publications** and **3 are senior author** in leading international journals.  Breakdown by journal:
 **1 in Nat. Commun.**,
 **2 in Phys. Rev. Lett.**,
 3 review papers in Rep. Prog. Phys.,
@@ -137,32 +137,32 @@ Publication Summary:
 1 in Linear Algebra Appl,
 3 in J. Phys. Conf. Ser.
 and
-5 on arXiv under review.
+6 on arXiv.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
 
-I have organised a talk on quantum technologies by Fujitsu, I was one of the primary organisers involved for the Quantum Battles 2020 virtual conference, and I am co-chair for multiphoton 2024 GRS. I have given **26 talks** at conferences and institutions, **22 international talks** and **13 invited talks**.
+I have organised a talk on quantum technologies by Fujitsu, I was one of the primary organisers involved for the Quantum Battles 2020 virtual conference, and I am co-chair for multiphoton 2024 GRS. I have given **27 talks** at conferences and institutions, **23 international talks** and **14 invited talks** (6 at conferences, 7 institutional visits, and 1 virtual seminar series).
 
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate and undergraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in **Phys. Rev. Lett**. I am **currently supervising two BSc students** and expect the project to lead to publications. I also played a significant role in the **supervision of 5 masters** students and **1 PhD** student.
+I have **lectured at a postgraduate and undergraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in **Phys. Rev. Lett**. I am **recently supervised two more students for both their bachelor and then master level projects** and publications are in preparation for both projects. I also played a significant role in the **supervision of 6 additional masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
 
 1 Physical Review Letters (APS),
 1 Communications Physics (Nature),
-10 Physical Review A (APS),
-Physical Review R (APS),
+11 Physical Review A (APS),
+1 Physical Review R (APS),
 3 Journal of Physics A: Mathematical and Theoretical (IOP),
-Journal of Physics B: Atomic, Molecular and Optical Physics (IOP),
+1 Journal of Physics B: Atomic, Molecular and Optical Physics (IOP),
 2 European Journal of Physics D,
 2 Optics Express,
 1 Journal of Modern Optics,
 and
-1Communications in Nonlinear Science and Numerical Simulation.
+1 Communications in Nonlinear Science and Numerical Simulation.
 
 Computer Skills:
 ------------------------------------------
