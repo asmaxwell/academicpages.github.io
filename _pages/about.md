@@ -12,7 +12,7 @@ I was a postdoctoral fellow at University College London with an EPSRC fellowshi
 
 News and Events
 =================
-We recently put a [paper on arXiv](https://arxiv.org/abs/2308.15374) showcasing a new model including spin and other relativistic effects in the path-integral model the CQSFA. Here, we show that relativistic effects play a role for rescattered electrons at much lower laster intensites than expected.s
+We recently put a [paper on arXiv](https://arxiv.org/abs/2308.15374) showcasing a new model including spin and other relativistic effects in the path-integral model the CQSFA. Here, we show that relativistic effects play a role for rescattered electrons at much lower laster intensites than expected.
 
 See our latest [paper on machine learning in strong-field ionization](https://iopscience.iop.org/article/10.1088/1367-2630/acee19/meta)
 , using convolutional neural networks to characterize the laser field.
