@@ -12,7 +12,7 @@ redirect_from:
 
 Summary and Impact of Research
 -------------------------------
-I am currently doing a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on electron spin and orbital angular momentum in attosecond physics. My research history is as follows:
+My research history is as follows:
 My PhD focused on quantum interference in strong-field processes,
 directly resulted in 7 first author publications, including one in
 Phys. Rev. Lett. Following my PhD I was invited to
@@ -23,6 +23,7 @@ College London (UCL) quantum science and technology institute (UCLQ),
 investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
 From November  2020 until September 2021 I did a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems.
+From 2021, I was awarded a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on developing ionization models for electronic spin and orbital angular momentum in attoscience. My postdocs have resulted in 30 total publication, 8 first author and 3 senior author publications.
 
 Education and Qualifications
 -------------------------------

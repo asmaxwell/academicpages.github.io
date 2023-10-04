@@ -7,13 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Marie Curie Individual Fellow at Aarhus University investigating spin and orbital angular momentum in strong field systems,  [Aarhus Homepage](https://pure.au.dk/portal/da/persons/andrew-maxwell(2cc779f0-ebc1-4c1a-8ddc-de305916e54f).html).
-Previously, I was a postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ), where I worked on quantum metrology in attoscience as well as photoelectron holography. After that I worked at ICFO-The Institute of Photonic Sciences investigating entanglement in orbital angular momentum and chirality in attoscience.
-
-
-
-
-
+I am a quantum attosecond physicist, I have worked on entanglement, orbital angular momentum, chirality, photoelectron holography, semi-classical model development, quantum optics, machine learning, and more, in processes such as strong-field ionization and high-harmonic generation.
+I was a postdoctoral fellow at University College London with an EPSRC fellowship in the quantum science and technology institute (UCLQ), where I worked on quantum metrology in attoscience as well as photoelectron holography. After that I worked at ICFO-The Institute of Photonic Sciences investigating entanglement in orbital angular momentum and chirality in attoscience. Most recently I was Fellowship at Aarhus University in Denmark developing ionization models for electronic spin and orbital angular momentum in attoscience.
 
 News and Events
 =================
