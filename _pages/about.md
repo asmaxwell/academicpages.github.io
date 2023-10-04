@@ -12,6 +12,8 @@ I was a postdoctoral fellow at University College London with an EPSRC fellowshi
 
 News and Events
 =================
+We recently put a [paper on arXiv](https://arxiv.org/abs/2308.15374) showcasing a new model including spin and other relativistic effects in the path-integral model the CQSFA. Here, we show that relativistic effects play a role for rescattered electrons at much lower laster intensites than expected.s
+
 See our latest [paper on machine learning in strong-field ionization](https://iopscience.iop.org/article/10.1088/1367-2630/acee19/meta)
 , using convolutional neural networks to characterize the laser field.
 
@@ -19,13 +21,14 @@ See our recent work, recently accepted for publication by Physical Review Letter
 
 We had some work published in Nature Communications demonstrating entanglement between two photoelectrons in non-sequential double ionization, by examining their orbital angular momentum using structured vortex states. [Check it out!](https://www.nature.com/articles/s41467-022-32128-z). See [popular summary](https://www.icfo.eu/news/2064/entanglement-reveals-itself-to-attosecond-physics-/) on ICFO website.
 
+<!---
 A Plato style dialogue on analytical and ab initio methods for Quantum Battles in attoscience: [Eur. Phys. J. D (2021) 75: 209](https://doi.org/10.1140/epjd/s10053-021-00207-3).
 
 Some recent papers we published on OAM in strong field physics 	[Faraday Discuss., 2021,228, 394-412](https://doi.org/10.1039/D0FD00105H) and [Eur. Phys. J. D (2021) 75: 199](https://doi.org/10.1140/epjd/s10053-021-00214-4).
 
 Check out work on [metrology in strong field physics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.043519) and our review on photoelectron holography [here](https://iopscience.iop.org/article/10.1088/1361-6633/ab5c91).
 
-<!---
+
 
 I will be presenting a poster at this years virtual [ICPEAC conference](https://www.icpeac2021.ca/) on the work we have done on orbtial angular momentum in strong field ionization, which include interferences vortices, probing chirality and investigating entanglement.
 I recently presented the [following](https://pubs.rsc.org/en/content/articlehtml/2020/fd/d0fd00105h) work on twisted electron in strong field ionization at the Faraday discussion, which was held 1-3 February.
