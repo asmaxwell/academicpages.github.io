@@ -180,8 +180,7 @@ Funding
 
 The Marie Skłodowska Curie Individual Fellowship project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 887153 (SSFI).
 
-![eu_emblem](/images/eu_emblem.png)  
-![logo_marie-curie](/images/logo_marie-curie.png)  
+![eu_emblem](/images/eu_emblem.png) ![logo_marie-curie](/images/logo_marie-curie.png)  
 
 Teaching List
 ------------------------------------------
