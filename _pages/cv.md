@@ -178,6 +178,10 @@ Funding
 | 01/09/2021 - 31/08/2023 | Marie Skłodowska Curie Individual Fellowship at Aarhus Univeristy |
 | 14/01/2019 - 13/01/2021 | Two year EPSRC fellowship in quantum technologies at University College London quantum (UCLQ). |
 
+The Marie Skłodowska Curie Individual Fellowship project received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 887153 (SSFI).
+![eu_emblem](images/eu_emblem.eps)  
+![logo_marie-curie](images/logo_marie-curie.jpeg)  
+
 Teaching List
 ------------------------------------------
 
