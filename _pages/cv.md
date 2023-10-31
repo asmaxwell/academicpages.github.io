@@ -23,7 +23,7 @@ College London (UCL) quantum science and technology institute (UCLQ),
 investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
 From November  2020 until September 2021 I did a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems.
-From 2021, I was awarded a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on developing ionization models for electronic spin and orbital angular momentum in attoscience. My postdocs have resulted in 30 total publication, 8 first author and 3 senior author publications.
+From 2021, I was awarded a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on developing ionization models for electronic spin and orbital angular momentum in attoscience. My postdocs have resulted in 31 total publication, 8 first author and 3 senior author publications.
 
 Education and Qualifications
 -------------------------------
@@ -125,13 +125,13 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**37 publications** (not including PhD Thesis): **15 are first author publications** and **3 are senior author** in leading international journals.  Breakdown by journal:
+**38 publications** (not including PhD Thesis): **15 are first author publications** and **3 are senior author** in leading international journals.  Breakdown by journal:
 **1 in Nat. Commun.**,
 **2 in Phys. Rev. Lett.**,
 3 review papers in Rep. Prog. Phys.,
 1 in the Faraday Discussions,
 1 in New J. Phys.,
-12 in Phys. Rev. A,
+13 in Phys. Rev. A,
 1 in Phys. Rev. B,
 3 in J. Phys. B,
 2 in Eur. Phys. J. D,
@@ -153,10 +153,11 @@ I have **lectured at a postgraduate and undergraduate level**, and contributed t
 Reviewing:
 ------------------------------------------
 
-1 Physical Review Letters (APS),
 1 Communications Physics (Nature),
+1 Physical Review Letters (APS),
 11 Physical Review A (APS),
-1 Physical Review R (APS),
+1 Physical Review Research (APS),
+1 New Journal of Physics (IoP),
 3 Journal of Physics A: Mathematical and Theoretical (IOP),
 1 Journal of Physics B: Atomic, Molecular and Optical Physics (IOP),
 2 European Journal of Physics D,
