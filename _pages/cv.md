@@ -23,7 +23,7 @@ College London (UCL) quantum science and technology institute (UCLQ),
 investigating quantum metrology and previously neglected quantum effects
 in strong field systems.
 From November  2020 until September 2021 I did a postdoc at the Instituto de Ciencias Fotónicas (ICFO) in Barcelona, researching entanglement and quantum simulators in strong field systems.
-From 2021, I was awarded a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on developing ionization models for electronic spin and orbital angular momentum in attoscience. My postdocs have resulted in 31 total publication, 8 first author and 3 senior author publications.
+From 2021, I was awarded a Marie Skłodowska-Curie Individual Fellowship at Aarhus University in Denmark, focused on developing ionization models for electronic spin and orbital angular momentum in attoscience. My postdocs have resulted in 32 total publication, 8 first author and 4 senior author publications.
 
 Education and Qualifications
 -------------------------------
