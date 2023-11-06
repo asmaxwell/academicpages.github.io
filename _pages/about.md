@@ -12,7 +12,7 @@ I was a postdoctoral fellow at University College London with an EPSRC fellowshi
 
 News and Events
 =================
-Check out our latest work, [now on arXiv](https://arxiv.org/abs/2311.01845), describing a range of improvments our path-integral strong-field ionization model, including computation of the Maslov index.
+Check out our latest work, [now on arXiv](https://arxiv.org/abs/2311.01845), describing a range of improvments to our path-integral strong-field ionization model, including computation of the Maslov index.
 
 We recently put a [paper on arXiv](https://arxiv.org/abs/2308.15374) showcasing a new model including spin and other relativistic effects in the path-integral model the CQSFA. Here, we show that relativistic effects play a role for rescattered electrons at much lower laster intensites than expected.
 
