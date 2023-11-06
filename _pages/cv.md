@@ -125,7 +125,7 @@ Publication Summary:
 
 [Google Scholar Page](https://scholar.google.co.uk/citations?user=nmL4KXEAAAAJ): **Andrew S Maxwell**, [ORCID](https://orcid.org/0000-0002-6503-4661): **0000-0002-6503-4661** and [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=56816436900): **56816436900**.
 
-**38 publications** (not including PhD Thesis): **15 are first author publications** and **3 are senior author** in leading international journals.  Breakdown by journal:
+**39 publications** (not including PhD Thesis): **15 are first author publications** and **4 are senior author** in leading international journals.  Breakdown by journal:
 **1 in Nat. Commun.**,
 **2 in Phys. Rev. Lett.**,
 3 review papers in Rep. Prog. Phys.,
@@ -138,7 +138,7 @@ Publication Summary:
 1 in Linear Algebra Appl,
 3 in J. Phys. Conf. Ser.
 and
-6 on arXiv.
+7 on arXiv.
 
 Talks, Conferences and Workshops Summary:
 ------------------------------------------
