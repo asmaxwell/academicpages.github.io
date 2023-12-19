@@ -169,7 +169,7 @@ and
 Computer Skills:
 ------------------------------------------
 
-Skilled in: C, C++, Mathematica, python and Unix/ Linux. Competent in: Matlab.
+Skilled in: C, C++, python, Mathematica and Unix/ Linux. Competent in: Matlab.
 
 Funding
 ------------------------------------------
