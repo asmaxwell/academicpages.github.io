@@ -148,7 +148,7 @@ I have organised a talk on quantum technologies by Fujitsu, I was one of the pri
 Supervision Experience Summary:
 ------------------------------------------
 
-I have **lectured at a postgraduate and undergraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in **Phys. Rev. Lett**. I am **recently supervised two more students for both their bachelor and then master level projects** and publications are in preparation for both projects. I also played a significant role in the **supervision of 6 additional masters** students and **1 PhD** student.
+I have **lectured at a postgraduate and undergraduate level**, and contributed to and demonstrated for undergraduate courses. I have previously **supervised two MSc students**, each project resulted in publications, in EPJD, the Farday Discussions and one in **Phys. Rev. Lett**. I **recently supervised two more students for both their bachelor and then master level projects** and publications are in preparation for both projects. I also played a significant role in the **supervision of 6 additional masters** students and **1 PhD** student.
 
 Reviewing:
 ------------------------------------------
